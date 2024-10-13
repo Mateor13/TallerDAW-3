@@ -3,7 +3,7 @@
 
 **Nombre:** Mateo Torres
 
-Para la realización de este trabajo se tomo como referencia la página de Gamers Ecuador con el siguiente enlace: https://gamersecuador.store/ 
+Para la realización de este trabajo se tomo como referencia la página de [Gamers Ecuador](https://gamersecuador.store/).
 
 Se tomaron varios elementos para ejemplificar las diferentes temáticas aprendidas en clases, como:
 
